@@ -18,6 +18,7 @@
 library(ggplot2)
 library(tidyr)
 library(pracma)
+library(cowplot)
 
 source("SHbO2CO2_Dash_2016_Adair.R", local = TRUE)
 
@@ -246,9 +247,6 @@ print(standard_OEC)
 
 # PANEL B: HbO2 SATURATION CURVE WITH SWAPPED AXES
 # ------------------------------------------------------------------------------
-
-library(cowplot)
-
 # Annotation for swapped axes
 annot_swapped <- data.frame(
   xpos  = Sat_exact + 8,

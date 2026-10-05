@@ -181,3 +181,7 @@ ggsave(
 
 print(inflections)
 
+
+# Session information for reproducibility
+session_info <- c(capture.output(sessionInfo()),"", capture.output(rstudioapi::versionInfo()))
+writeLines(session_info, "session_info.txt") 
