@@ -14,10 +14,6 @@ The repository contains the following files:
 - The plots produced by the code files above as pdf and tiff
 
 ## **3. Quick Start**
-To reproduce the analysis:
-1. Run `Dash_Adair_Bridge.R` to align Dash et al.’s and Adair’s models (calculates scaling coefficients).
-2. Run `source_code.R` to generate manuscript figures.
-   - **Execution time**: ~1–2 minutes (depends on system performance).
 
 ## **References**
 **Wasserman (1994)**
