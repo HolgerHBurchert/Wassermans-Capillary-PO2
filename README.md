@@ -13,8 +13,6 @@ The repository contains the following files:
 - `session_info.txt` -> Auto-generated R session details for reproducibility.
 - The plots produced by the code files above as pdf and tiff
 
-## **3. Quick Start**
-
 ## **References**
 **Wasserman (1994)**
 Wasserman K. Coupling of external to cellular respiration during exercise: the wisdom of the body revisited. Am J Physiol-Endocrinol Metab 266: E519–E539, 1994. doi: 10.1152/ajpendo.1994.266.4.E519.
